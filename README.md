@@ -6,7 +6,7 @@
 📂 Project Type: Data Analytics | Stock Market Analysis | Dashboard Design
 
 
-
+----
 
 
 ### 🔍 Project Overview
@@ -15,7 +15,7 @@ This Power BI dashboard presents a time series analysis of Apple Inc.'s stock da
 The goal is to make financial insights easy to understand and explore for analysts, investors, and data enthusiasts through clean, impactful visuals.
 
 
-
+---
 
 
 ### 🌟 Key Features
@@ -25,7 +25,10 @@ The goal is to make financial insights easy to understand and explore for analys
 
 🍩 Monthly Closing Price (Donut Chart) – Displays percentage distribution month-by-month.
 
-💡 KPI Cards:
+
+----
+
+### 💡 KPI Cards:
 
 🔼 Total High Price: $205.82K
 
@@ -41,13 +44,14 @@ The goal is to make financial insights easy to understand and explore for analys
 
 📋 Year-Month Data Table – Detailed view for deeper time-based analysis.
 
-
+----
 
 
 ### 📈 Future of Apple Stock (2024–2026 & Beyond)
 📌 Based on expert predictions, innovation strategy, and market trends
 
 ✅ Growth Potential
+
 📱 Continued iPhone innovation (AI features, foldable design)
 
 ☁️ Expansion of Apple Services (TV+, iCloud, Apple Pay)
@@ -56,7 +60,9 @@ The goal is to make financial insights easy to understand and explore for analys
 
 🌍 Rapid growth in emerging markets (e.g., India)
 
-💡 Innovation 
+----
+
+### 💡 Innovation 
 
 🤖 AI-powered iOS and Siri updates
 
@@ -73,7 +79,7 @@ The goal is to make financial insights easy to understand and explore for analys
 🌐 Consistent global performance and customer loyalty
 
 
-
+----
 
 
 ### 🔮  Estimated Stock Price Forecast
@@ -85,7 +91,7 @@ The goal is to make financial insights easy to understand and explore for analys
 | 2026 | [	$250 – $300](https://via.placeholder.com/10/00b48a?text=+) |
 
 
-
+----
 
 
 ### 👤 Who Should Use This Dashboard
@@ -94,7 +100,12 @@ The goal is to make financial insights easy to understand and explore for analys
 💼 Investors – For trend analysis and decision-making
 
 🧠 Business Intelligence Professionals – To explore real-time data patterns
+
+--- 
+
+
 ## 📸 Screenshots Dashbord
+
 
 ![App Screenshot](https://github.com/vaibhavkatwe17/Data_Analytics/blob/main/Screenshot%202025-06-16%20202408.jpg?raw=true)
 
@@ -103,7 +114,7 @@ The goal is to make financial insights easy to understand and explore for analys
 
 
 
-
+----
 ## Final Output / Conclusion
 This project brings together stock market data and modern visual storytelling using Power BI. By analyzing Apple Inc.'s stock trends from 2019 to 2024, it helps users explore how prices, trading volume, and trends changed over time.
 
