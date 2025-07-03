@@ -9,6 +9,12 @@
 ----
 
 
+## Problem Statement ##
+In the fast-paced world of stock markets, investors and analysts often struggle to derive meaningful insights from large volumes of historical price and trading data. Without clear visualizations and trend analysis, it's challenging to track performance, understand seasonality, or predict future movements.
+
+This project addresses the need for an intuitive, data-driven solution by performing a time series analysis of Apple Inc.'s stock data from 2019 to 2024. Using Microsoft Power BI, the goal is to transform raw market data into interactive dashboards that reveal patterns in stock prices, trading volumes, and volatility, thereby enabling smarter investment decisions and financial forecasting.
+
+
 ### 🔍 Project Overview
 This Power BI dashboard presents a time series analysis of Apple Inc.'s stock data from 2019 to 2024. It helps users understand trends in stock prices, trading volumes, and overall market behavior using dynamic and interactive visualizations.
 
